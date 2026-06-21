@@ -154,7 +154,3 @@ Ideas for v2:
 - **dbt model support** — parse Jinja-templated SQL from dbt projects
 
 ---
-
-## License
-
-MIT
