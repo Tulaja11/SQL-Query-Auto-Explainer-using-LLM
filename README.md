@@ -1,4 +1,4 @@
-#  SQL Query Auto-Explainer
+#  SQL Query Auto Explainer
 
 > Paste any SQL query → get a plain-English breakdown, execution order, performance warnings, bug detection, and an optimized rewrite — powered by Gemini + sqlglot.
 
